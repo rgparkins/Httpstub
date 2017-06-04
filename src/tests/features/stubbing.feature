@@ -26,12 +26,3 @@ Feature: Using the service as a stub
   Examples:
      | data                       | path         |
      | { text : 'hello world' }   | recons/guid  |
-
-  Scenario Outline: Clearing the stub
-  Given the service has <data> on <path>
-  When removing all data
-  Then a 404 is returned from <path>
-
-  Examples:
-     | data                       | path         |
-     | { text : 'hello world' }   | recons/guid  |

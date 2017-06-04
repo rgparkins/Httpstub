@@ -93,18 +93,19 @@ module.exports = function () {
         });
     });
 
-    this.When(/^removing all data/, function (callback) {
-        var url = systemUnderTestHost + "/";
+    this.Then(/^a 200 is returned from ([^"]*) with ([^"]*)$/, function (path, content, callback) {
+        var url = systemUnderTestHost + "/" + path;
 
         request({
             url: url,
-            method: "DELETE",
+            method: "GET",
             timeout: 1000
         }, function (error, response, body) {
             if (error)
                 throw error
 
             expect(response.statusCode).to.equal(200);
+            expect(content).to.equal(body);
 
             callback();
         });

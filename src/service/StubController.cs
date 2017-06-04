@@ -43,15 +43,8 @@ namespace service
         [HttpDelete]
         public IActionResult Delete()
         {
-            if (Request.Path.ToString() == "/")
-            {
-                _cache.RemoveAll();
-            }
-            else
-            {
-                _cache.RemoveByPath(Request.Path);
-            }
-
+            _cache.RemoveByPath(Request.Path);
+            
             return Ok();
         }
     }

@@ -10,8 +10,6 @@ namespace service
         object FetchByKey(string key);
 
         void RemoveByPath(string key);
-
-        void RemoveAll();
     }
 
 
@@ -28,15 +26,20 @@ namespace service
         {
             object @object;
 
-            _cache.TryRemove(path, out @object);
-        }
-
-        public void RemoveAll()
-        {
             _cache.Keys.ToList().ForEach(k =>
             {
-                RemoveByPath(k);
+                if (k.StartsWith(path))
+                {
+                    RemoveKey(k);
+                }
             });
+        }
+
+        private void RemoveKey(string key)
+        {
+            object @object;
+
+            _cache.TryRemove(key, out @object);
         }
 
         public object FetchByKey(string key)
