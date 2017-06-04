@@ -17,6 +17,8 @@ For example, POST `users/1` can be found under the GET `users/1`
 
 Should you wish to remove this data (for example to test a 404) then you can call DELETE `users/1`
 
+To clear the whole cache send a DELETE to `/`
+
 ## Current planned work
 
 I am looking to allow Deletes for example DELETE `users/`
