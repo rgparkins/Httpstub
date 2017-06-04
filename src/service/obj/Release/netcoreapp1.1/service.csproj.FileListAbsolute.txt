@@ -1,0 +1,8 @@
+/build/src/service/bin/Release/netcoreapp1.1/service.deps.json
+/build/src/service/bin/Release/netcoreapp1.1/service.runtimeconfig.json
+/build/src/service/bin/Release/netcoreapp1.1/service.runtimeconfig.dev.json
+/build/src/service/obj/Release/netcoreapp1.1/service.AssemblyInfo.cs
+/build/src/service/bin/Release/netcoreapp1.1/service.dll
+/build/src/service/bin/Release/netcoreapp1.1/service.pdb
+/build/src/service/obj/Release/netcoreapp1.1/service.dll
+/build/src/service/obj/Release/netcoreapp1.1/service.pdb

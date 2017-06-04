@@ -1,0 +1,15 @@
+version: '2'
+services:
+  stub:
+    build:
+      context: ./src/service
+      dockerfile: Dockerfile
+    ports:
+      - "8081:80"
+    networks:
+      - stubtest
+networks:
+  stubtest:
+    driver: bridge
+    ipam:
+      driver: default  
