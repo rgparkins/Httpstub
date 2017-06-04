@@ -21,7 +21,7 @@ namespace service
                     services.AddSingleton<RequestCache>();
                 })
                 .UseStartup<Startup>()
-                .UseUrls("http://*:8099");
+                .UseUrls("http://*:80");
 
             var host = builder.Build();
             host.Run();
