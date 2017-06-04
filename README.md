@@ -11,7 +11,7 @@ Currently supports json and XML.
 
 You can POST, DELETE and GET your data
 
-You can post any object to any path and the objecrt will be stored in an inmemory cache. Writing data to an existing path will overwrite the current data stored.
+You can post any object to any path and the object will be stored in an in-memory cache. Writing data to an existing path will overwrite the current data stored.
 
 For example, POST `users/1` can be found under the GET `users/1`
 
@@ -21,4 +21,7 @@ To clear the whole cache send a DELETE to `/`
 
 ## Current planned work
 
-I am looking to allow Deletes for example DELETE `users/`
+* I am looking to allow Deletes for example DELETE `users/`
+* Support of exception throwing
+* Support of Header responses
+* Return Location header on POST
