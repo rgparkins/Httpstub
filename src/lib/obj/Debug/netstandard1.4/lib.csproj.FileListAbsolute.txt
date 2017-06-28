@@ -1,0 +1,2 @@
+/Users/rgparkins/dev/rgparkins/http-stub/src/lib/bin/Debug/netstandard1.4/lib.deps.json
+/Users/rgparkins/dev/rgparkins/http-stub/src/lib/obj/Debug/netstandard1.4/lib.AssemblyInfo.cs

@@ -3,9 +3,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace service
+namespace httpstub
 {
-
     public class Startup
     {
         public Startup(IHostingEnvironment env)

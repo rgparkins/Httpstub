@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace service
+namespace httpstub
 {
     public class StatusController : Controller
     {

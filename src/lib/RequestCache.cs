@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
 using System.Linq;
 
-namespace service
+namespace httpstub
 {
     public interface ICacheRequests
     {

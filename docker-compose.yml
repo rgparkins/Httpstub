@@ -5,7 +5,7 @@ services:
       context: ./src/service
       dockerfile: Dockerfile
     ports:
-      - "8081:80"
+      - "8005:80"
     networks:
       - stubtest
 networks:

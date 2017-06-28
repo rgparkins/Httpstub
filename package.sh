@@ -27,7 +27,7 @@ fi
 
 echo
 echo =============================================================================
-echo building C# dotnet core http-stub library
+echo building C# dotnet core Provider library
 echo =============================================================================
 echo
 
@@ -38,7 +38,4 @@ CURDIR=`pwd`
 docker run --rm \
            -v "$CURDIR/:/build" \
            --workdir /build \
-           microsoft/dotnet:1.1-sdk ./_build.sh
-
-
-
+           microsoft/dotnet:1.1-sdk ./_package.sh
