@@ -24,8 +24,6 @@ namespace Parkwell.HttpStub
 
         public void RemoveByPath(string path)
         {
-            object @object;
-
             _cache.Keys.ToList().ForEach(k =>
             {
                 if (k.StartsWith(path))

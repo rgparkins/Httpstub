@@ -2,133 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0658a758-c749-4bed-8340-228812cdca29" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/http-stub.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/http-stub.1.0.0.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/lib.1.0.0.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netcoreapp1.1/lib.deps.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netcoreapp1.1/lib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netcoreapp1.1/lib.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netstandard1.4/lib.deps.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.1/CoreCompileInputs.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.1/lib.AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.4/CoreCompileInputs.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.4/lib.AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.4/lib.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/http-stub.1.0.0.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/lib.1.0.0.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/lib.csproj.nuget.g.props" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/lib.csproj.nuget.g.targets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/project.assets.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/rgparkins/http-stub.1.0.0.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/http-stub.1.0.0.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/lib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/lib.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Antiforgery.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Authorization.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Cors.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Cryptography.Internal.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.DataProtection.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.DataProtection.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Diagnostics.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Hosting.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Hosting.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Html.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.Extensions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.Features.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.JsonPatch.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Localization.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.ApiExplorer.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Core.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Cors.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.DataAnnotations.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Formatters.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Localization.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Razor.Host.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Razor.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.TagHelpers.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.ViewFeatures.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Razor.Runtime.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Razor.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Routing.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Routing.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Server.Kestrel.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.WebUtilities.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.DotNet.PlatformAbstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Caching.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Caching.Memory.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.FileExtensions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.DependencyInjection.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.DependencyModel.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileProviders.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileProviders.Composite.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileProviders.Physical.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileSystemGlobbing.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Globalization.CultureInfoCache.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Localization.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Localization.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Logging.Abstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Logging.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.ObjectPool.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Options.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.PlatformAbstractions.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Primitives.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.WebEncoders.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Net.Http.Headers.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Collections.NonGeneric.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Collections.Specialized.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.ComponentModel.Primitives.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.ComponentModel.TypeConverter.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Diagnostics.Contracts.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Diagnostics.StackTrace.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Net.WebSockets.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Runtime.CompilerServices.Unsafe.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Runtime.Serialization.Primitives.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Text.Encodings.Web.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/lib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/lib.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.deps.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.runtimeconfig.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.deps.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.runtimeconfig.dev.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.runtimeconfig.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/service.1.0.0.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/http-stub.1.0.0.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/project.assets.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/service.1.0.0.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/service.csproj.nuget.g.props" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/service.csproj.nuget.g.targets" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/HttpStub.cs" afterPath="$PROJECT_DIR$/src/lib/HttpStub.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/RequestCache.cs" afterPath="$PROJECT_DIR$/src/lib/RequestCache.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/Startup.cs" afterPath="$PROJECT_DIR$/src/lib/Startup.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/StatusController.cs" afterPath="$PROJECT_DIR$/src/lib/StatusController.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/StubController.cs" afterPath="$PROJECT_DIR$/src/lib/StubController.cs" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/httpstub.sln" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.httpstub/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.httpstub/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sh" afterPath="$PROJECT_DIR$/build.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.sh" afterPath="$PROJECT_DIR$/package.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/lib.csproj" afterPath="$PROJECT_DIR$/src/lib/lib.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/Program.cs" afterPath="$PROJECT_DIR$/src/service/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/Dockerfile" afterPath="$PROJECT_DIR$/src/service/Dockerfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/service.csproj" afterPath="$PROJECT_DIR$/src/service/service.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,14 +40,9 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/service/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-              <folding>
-                <marker date="1506946044000" expanded="false" signature="6:139" ph="..." />
-                <marker date="1506946044000" expanded="true" signature="176:403" ph="{...}" />
-                <marker date="1506946044000" expanded="true" signature="196:401" ph="{...}" />
-                <marker date="1506946044000" expanded="true" signature="249:395" ph="{...}" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -221,18 +95,33 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="httpstub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="httpstub (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="httpstub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="httpstub (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="httpstub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="httpstub (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="service" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="lib (unloading...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="httpstub (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="lib (unloading...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="httpstub (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="lib (unloading...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -280,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506944551413</updated>
-      <workItem from="1506944553068" duration="534000" />
+      <workItem from="1506944553068" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="534000" />
+    <option name="totallyTimeSpent" value="925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,6 +187,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -350,14 +240,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/service/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <marker date="1506946044000" expanded="false" signature="6:139" ph="..." />
-            <marker date="1506946044000" expanded="true" signature="176:403" ph="{...}" />
-            <marker date="1506946044000" expanded="true" signature="196:401" ph="{...}" />
-            <marker date="1506946044000" expanded="true" signature="249:395" ph="{...}" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

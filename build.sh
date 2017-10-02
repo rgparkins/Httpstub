@@ -38,7 +38,4 @@ CURDIR=`pwd`
 docker run --rm \
            -v "$CURDIR/:/build" \
            --workdir /build \
-           microsoft/dotnet:1.1-sdk ./_build.sh
-
-
-
+           microsoft/dotnet:2.0-sdk ./_build.sh

@@ -2,8 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <PackageName>http-stub</PackageName>
-    <PackageId>http-stub</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>2.0.0</PackageVersion>
     <Authors>Richard Parkins</Authors>
     <Description>Http stub that allows set up of responses when testing. POST to setup, GET to get :)</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
