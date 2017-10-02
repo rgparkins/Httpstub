@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
 using System.Linq;
 
-namespace httpstub
+namespace Parkwell.HttpStub
 {
     public interface ICacheRequests
     {

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0658a758-c749-4bed-8340-228812cdca29" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/http-stub.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/http-stub.1.0.0.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/lib.1.0.0.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netcoreapp1.1/lib.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netcoreapp1.1/lib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netcoreapp1.1/lib.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/bin/Debug/netstandard1.4/lib.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netcoreapp1.1/lib.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.1/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.1/lib.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.4/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.4/lib.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/Debug/netstandard1.4/lib.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/http-stub.1.0.0.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/lib.1.0.0.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/lib.csproj.nuget.g.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/lib.csproj.nuget.g.targets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/project.assets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lib/obj/rgparkins/http-stub.1.0.0.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/http-stub.1.0.0.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/lib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/lib.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Antiforgery.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Authorization.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Cors.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Cryptography.Internal.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.DataProtection.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.DataProtection.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Diagnostics.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Hosting.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Hosting.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Html.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.Extensions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.Features.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Http.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.JsonPatch.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Localization.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.ApiExplorer.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Core.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Cors.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.DataAnnotations.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Formatters.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Localization.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Razor.Host.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.Razor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.TagHelpers.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.ViewFeatures.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Mvc.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Razor.Runtime.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Razor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Routing.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Routing.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.Server.Kestrel.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.AspNetCore.WebUtilities.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.DotNet.PlatformAbstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Caching.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Caching.Memory.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.FileExtensions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Configuration.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.DependencyInjection.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.DependencyModel.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileProviders.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileProviders.Composite.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileProviders.Physical.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.FileSystemGlobbing.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Globalization.CultureInfoCache.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Localization.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Localization.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Logging.Abstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Logging.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.ObjectPool.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Options.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.PlatformAbstractions.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.Primitives.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Extensions.WebEncoders.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Microsoft.Net.Http.Headers.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Collections.NonGeneric.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Collections.Specialized.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.ComponentModel.Primitives.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.ComponentModel.TypeConverter.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Diagnostics.Contracts.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Diagnostics.StackTrace.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Net.WebSockets.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Runtime.CompilerServices.Unsafe.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Runtime.Serialization.Primitives.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/System.Text.Encodings.Web.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/lib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/lib.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/publish/service.runtimeconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.runtimeconfig.dev.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/netcoreapp1.1/service.runtimeconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/bin/Debug/service.1.0.0.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/Debug/netcoreapp1.1/service.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/http-stub.1.0.0.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/project.assets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/service.1.0.0.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/service.csproj.nuget.g.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/service/obj/service.csproj.nuget.g.targets" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/HttpStub.cs" afterPath="$PROJECT_DIR$/src/lib/HttpStub.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/RequestCache.cs" afterPath="$PROJECT_DIR$/src/lib/RequestCache.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/Startup.cs" afterPath="$PROJECT_DIR$/src/lib/Startup.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/StatusController.cs" afterPath="$PROJECT_DIR$/src/lib/StatusController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/StubController.cs" afterPath="$PROJECT_DIR$/src/lib/StubController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/lib.csproj" afterPath="$PROJECT_DIR$/src/lib/lib.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/Program.cs" afterPath="$PROJECT_DIR$/src/service/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/service.csproj" afterPath="$PROJECT_DIR$/src/service/service.csproj" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HttpStub.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+              <folding>
+                <marker date="1506945855000" expanded="false" signature="6:139" ph="..." />
+                <marker date="1506945855000" expanded="true" signature="168:1008" ph="{...}" />
+                <marker date="1506945855000" expanded="true" signature="210:1006" ph="{...}" />
+                <marker date="1506945855000" expanded="true" signature="289:760" ph="{...}" />
+                <marker date="1506945855000" expanded="true" signature="562:657" ph="{...}" />
+                <marker date="1506945855000" expanded="true" signature="838:925" ph="{...}" />
+                <marker date="1506945855000" expanded="true" signature="954:1000" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/service/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+              <folding>
+                <marker date="1506946044000" expanded="false" signature="6:139" ph="..." />
+                <marker date="1506946044000" expanded="true" signature="176:403" ph="{...}" />
+                <marker date="1506946044000" expanded="true" signature="196:401" ph="{...}" />
+                <marker date="1506946044000" expanded="true" signature="249:395" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lib/HttpStub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/service/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lib/HttpStub.cs" />
+        <option value="$PROJECT_DIR$/src/service/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="httpstub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="httpstub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="httpstub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="service" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0658a758-c749-4bed-8340-228812cdca29" name="Default" comment="" />
+      <created>1506944551413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506944551413</updated>
+      <workItem from="1506944553068" duration="534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="534000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding>
+            <marker date="1506945855000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1506945855000" expanded="true" signature="168:1008" ph="{...}" />
+            <marker date="1506945855000" expanded="true" signature="210:1006" ph="{...}" />
+            <marker date="1506945855000" expanded="true" signature="289:760" ph="{...}" />
+            <marker date="1506945855000" expanded="true" signature="562:657" ph="{...}" />
+            <marker date="1506945855000" expanded="true" signature="838:925" ph="{...}" />
+            <marker date="1506945855000" expanded="true" signature="954:1000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding>
+            <marker date="1506946044000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1506946044000" expanded="true" signature="176:403" ph="{...}" />
+            <marker date="1506946044000" expanded="true" signature="196:401" ph="{...}" />
+            <marker date="1506946044000" expanded="true" signature="249:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

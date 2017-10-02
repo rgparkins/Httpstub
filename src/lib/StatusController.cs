@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace httpstub
+namespace Parkwell.HttpStub
 {
     public class StatusController : Controller
     {

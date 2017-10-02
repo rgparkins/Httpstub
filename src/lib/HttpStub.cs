@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace httpstub
+namespace Parkwell.HttpStub
 {
     public class HttpStub : IDisposable
     {
@@ -29,6 +29,7 @@ namespace httpstub
 
         public void Dispose()
         {
+            host?.StopAsync().Wait();
             host?.Dispose();
         }
 

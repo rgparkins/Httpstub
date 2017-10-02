@@ -3,13 +3,13 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace httpstub.service
+namespace Parkwell.HttpStub.service
 {
     class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Quoting Api Nodes");
+            Console.WriteLine("Welcome to the Http stub");
 
             var stub = new HttpStub();
 

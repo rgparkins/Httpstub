@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace httpstub
+namespace Parkwell.HttpStub
 {
     public class StubController : Controller
     {
