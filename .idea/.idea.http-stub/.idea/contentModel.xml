@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="_build.sh" t="Include" />
+      <e p="_package.sh" t="Include" />
+      <e p="_test.sh" t="Include" />
+      <e p="build" t="Include" />
+      <e p="build.sh" t="Include" />
       <e p="http-stub.sln" t="IncludeFlat" />
+      <e p="package.sh" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="src" t="Include">
         <e p="lib" t="IncludeRecursive">
@@ -35,6 +41,7 @@
           <e p="service.csproj" t="IncludeRecursive" />
         </e>
       </e>
+      <e p="test.sh" t="Include" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_http-stub.1312900769.00" t="ExcludeRecursive" />
   </component>

@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
@@ -8,6 +8,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "src\lib\lib.csproj", "{0BFCCABB-2C2B-4673-BB7B-9557BC83D6FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service", "src\service\service.csproj", "{F9A53AE0-8E0D-480E-AF0F-573E72948CBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{A8ABABCF-9ABC-42EF-9230-4C8A2006D8AE}"
+ProjectSection(SolutionItems) = preProject
+	package.sh = package.sh
+	build.sh = build.sh
+	_package.sh = _package.sh
+	test.sh = test.sh
+	_build.sh = _build.sh
+	_test.sh = _test.sh
+EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
