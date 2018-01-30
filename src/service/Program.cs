@@ -11,7 +11,7 @@ namespace Parkwell.HttpStub.service
         {
             Console.WriteLine("Welcome to the Http stub");
 
-            var stub = new HttpStub();
+            var stub = new HttpStub(8000);
 
             stub.Start();
         }

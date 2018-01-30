@@ -2,16 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920f4876-9b0d-4ced-8f2d-4acd44e952e6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/httpstub.sln" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.http-stub/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.http-stub/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.httpstub/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.httpstub/.idea/contentModel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.httpstub/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.httpstub/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sh" afterPath="$PROJECT_DIR$/build.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.sh" afterPath="$PROJECT_DIR$/package.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/RequestCache.cs" afterPath="$PROJECT_DIR$/src/lib/RequestCache.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/lib.csproj" afterPath="$PROJECT_DIR$/src/lib/lib.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/Dockerfile" afterPath="$PROJECT_DIR$/src/service/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/service/service.csproj" afterPath="$PROJECT_DIR$/src/service/service.csproj" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.http-stub/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.http-stub/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.http-stub/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.http-stub/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Hosting.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Hosting.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Http.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Http.Extensions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Http.Features.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Http.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.Server.Kestrel.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.AspNetCore.WebUtilities.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.DotNet.PlatformAbstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Configuration.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Configuration.FileExtensions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Configuration.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.DependencyInjection.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.DependencyModel.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.FileProviders.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.FileProviders.Physical.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.FileSystemGlobbing.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Logging.Abstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Logging.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.ObjectPool.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Options.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.PlatformAbstractions.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Extensions.Primitives.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Microsoft.Net.Http.Headers.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/Newtonsoft.Json.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/System.Diagnostics.Contracts.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/System.Diagnostics.StackTrace.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/System.Net.WebSockets.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/System.Runtime.CompilerServices.Unsafe.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/System.Runtime.Serialization.Primitives.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/System.Text.Encodings.Web.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/service.deps.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/service.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/service.pdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/bin/out/service.runtimeconfig.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/lib/HttpStub.cs" afterPath="$PROJECT_DIR$/src/lib/HttpStub.cs" />
+      <change beforePath="$PROJECT_DIR$/src/lib/lib.csproj" afterPath="$PROJECT_DIR$/src/lib/lib.csproj" />
+      <change beforePath="$PROJECT_DIR$/src/service/Program.cs" afterPath="$PROJECT_DIR$/src/service/Program.cs" />
+      <change beforePath="$PROJECT_DIR$/src/service/service.csproj" afterPath="$PROJECT_DIR$/src/service/service.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,10 +62,29 @@
             <state relative-caret-position="240">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <marker date="1506948594000" expanded="false" signature="6:139" ph="..." />
-                <marker date="1506948594000" expanded="true" signature="176:403" ph="{...}" />
-                <marker date="1506948594000" expanded="true" signature="196:401" ph="{...}" />
-                <marker date="1506948594000" expanded="true" signature="249:395" ph="{...}" />
+                <marker date="1507025887000" expanded="false" signature="6:139" ph="..." />
+                <marker date="1507025887000" expanded="true" signature="176:407" ph="{...}" />
+                <marker date="1507025887000" expanded="true" signature="196:405" ph="{...}" />
+                <marker date="1507025887000" expanded="true" signature="249:399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StubController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lib/StubController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-265">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1498658700000" expanded="false" signature="6:129" ph="..." />
+                <marker date="1498658700000" expanded="true" signature="158:1141" ph="{...}" />
+                <marker date="1498658700000" expanded="true" signature="205:1139" ph="{...}" />
+                <marker date="1498658700000" expanded="true" signature="303:351" ph="{...}" />
+                <marker date="1498658700000" expanded="true" signature="459:557" ph="{...}" />
+                <marker date="1498658700000" expanded="true" signature="719:937" ph="{...}" />
+                <marker date="1498658700000" expanded="true" signature="828:891" ph="{...}" />
+                <marker date="1498658700000" expanded="true" signature="1028:1133" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,17 +93,9 @@
       <file leaf-file-name="HttpStub.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1506945855000" expanded="false" signature="6:139" ph="..." />
-                <marker date="1506945855000" expanded="true" signature="168:1008" ph="{...}" />
-                <marker date="1506945855000" expanded="true" signature="210:1006" ph="{...}" />
-                <marker date="1506945855000" expanded="true" signature="289:760" ph="{...}" />
-                <marker date="1506945855000" expanded="true" signature="562:657" ph="{...}" />
-                <marker date="1506945855000" expanded="true" signature="838:925" ph="{...}" />
-                <marker date="1506945855000" expanded="true" signature="954:1000" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/lib/RequestCache.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <marker date="1506948684000" expanded="false" signature="6:55" ph="..." />
                 <marker date="1506948684000" expanded="true" signature="84:1181" ph="{...}" />
@@ -91,7 +136,7 @@
         <entry file="file://$PROJECT_DIR$/src/service/service.csproj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="17" selection-end-column="13" />
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -103,9 +148,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lib/RequestCache.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lib/StubController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/lib/HttpStub.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/service/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/lib/RequestCache.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -122,7 +168,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1393" />
     <option name="height" value="877" />
@@ -164,21 +210,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="http-stub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="http-stub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="http-stub (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="service" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
@@ -209,21 +240,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Default">
+  <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <envs />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -233,12 +271,14 @@
       <option name="presentableId" value="Default" />
       <updated>1506778932694</updated>
       <workItem from="1506778935518" duration="1649000" />
-      <workItem from="1506948564069" duration="190000" />
+      <workItem from="1506948564069" duration="663000" />
+      <workItem from="1506950386026" duration="477000" />
+      <workItem from="1517305480969" duration="303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1839000" />
+    <option name="totallyTimeSpent" value="3092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,23 +290,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1393" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1390" height="877" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24982053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -292,10 +332,124 @@
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <marker date="1506948594000" expanded="false" signature="6:139" ph="..." />
-            <marker date="1506948594000" expanded="true" signature="176:403" ph="{...}" />
-            <marker date="1506948594000" expanded="true" signature="196:401" ph="{...}" />
-            <marker date="1506948594000" expanded="true" signature="249:395" ph="{...}" />
+            <marker date="1507025887000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1507025887000" expanded="true" signature="176:407" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="196:405" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="249:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/lib.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/service.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/RequestCache.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <marker date="1506948684000" expanded="false" signature="6:55" ph="..." />
+            <marker date="1506948684000" expanded="true" signature="84:1181" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="122:269" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="318:1179" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="484:582" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="629:835" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="685:823" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="739:809" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="879:976" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="1022:1173" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="1073:1137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1507025887000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1507025887000" expanded="true" signature="176:407" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="196:405" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="249:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/lib.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/service.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/RequestCache.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <marker date="1506948684000" expanded="false" signature="6:55" ph="..." />
+            <marker date="1506948684000" expanded="true" signature="84:1181" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="122:269" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="318:1179" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="484:582" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="629:835" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="685:823" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="739:809" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="879:976" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="1022:1173" ph="{...}" />
+            <marker date="1506948684000" expanded="true" signature="1073:1137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1507025887000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1507025887000" expanded="true" signature="176:407" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="196:405" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="249:399" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -327,7 +481,15 @@
     <entry file="file://$PROJECT_DIR$/src/service/service.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="17" selection-end-column="13" />
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -337,26 +499,27 @@
         <state relative-caret-position="240">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <marker date="1506948594000" expanded="false" signature="6:139" ph="..." />
-            <marker date="1506948594000" expanded="true" signature="176:403" ph="{...}" />
-            <marker date="1506948594000" expanded="true" signature="196:401" ph="{...}" />
-            <marker date="1506948594000" expanded="true" signature="249:395" ph="{...}" />
+            <marker date="1507025887000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1507025887000" expanded="true" signature="176:407" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="196:405" ph="{...}" />
+            <marker date="1507025887000" expanded="true" signature="249:399" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/HttpStub.cs">
+    <entry file="file://$PROJECT_DIR$/src/lib/StubController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="-265">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1506945855000" expanded="false" signature="6:139" ph="..." />
-            <marker date="1506945855000" expanded="true" signature="168:1008" ph="{...}" />
-            <marker date="1506945855000" expanded="true" signature="210:1006" ph="{...}" />
-            <marker date="1506945855000" expanded="true" signature="289:760" ph="{...}" />
-            <marker date="1506945855000" expanded="true" signature="562:657" ph="{...}" />
-            <marker date="1506945855000" expanded="true" signature="838:925" ph="{...}" />
-            <marker date="1506945855000" expanded="true" signature="954:1000" ph="{...}" />
+            <marker date="1498658700000" expanded="false" signature="6:129" ph="..." />
+            <marker date="1498658700000" expanded="true" signature="158:1141" ph="{...}" />
+            <marker date="1498658700000" expanded="true" signature="205:1139" ph="{...}" />
+            <marker date="1498658700000" expanded="true" signature="303:351" ph="{...}" />
+            <marker date="1498658700000" expanded="true" signature="459:557" ph="{...}" />
+            <marker date="1498658700000" expanded="true" signature="719:937" ph="{...}" />
+            <marker date="1498658700000" expanded="true" signature="828:891" ph="{...}" />
+            <marker date="1498658700000" expanded="true" signature="1028:1133" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -364,7 +527,7 @@
     <entry file="file://$PROJECT_DIR$/src/lib/RequestCache.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <marker date="1506948684000" expanded="false" signature="6:55" ph="..." />
             <marker date="1506948684000" expanded="true" signature="84:1181" ph="{...}" />

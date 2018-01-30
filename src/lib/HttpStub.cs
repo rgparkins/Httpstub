@@ -11,6 +11,8 @@ namespace Parkwell.HttpStub
 
         public HttpStub(int port = 8005)
         {
+            Port = port;
+            
             var config = new ConfigurationBuilder()
                             .AddEnvironmentVariables()
                             .Build();
