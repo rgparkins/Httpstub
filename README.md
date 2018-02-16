@@ -11,7 +11,7 @@ Currently supports json and XML.
 
 ### POST
 
-You can POAT any data to any path in your uri. Any duplicate path will be overwritten with the data posted
+You can POST any data to any path in your uri. Any duplicate path will be overwritten with the data posted
 
 For example, POST `users/1` can be found under the GET `users/1`
 
