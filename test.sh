@@ -1,60 +1,81 @@
 #!/usr/bin/env bash
 
-error() {
+cleanup() {
+  docker stop app || true
 
-  echo ">>>>>> Failed to build <<<<<<<<<"
-  echo ""
+  docker network rm dockernet
+
+  echo "....Cleaning up done"
+}
+
+error() {
+  echo ">>>>>> Test Failures Found, exiting test run <<<<<<<<<"
+
+  echo
+  echo ===========================================================
+  echo Printing logs from APP container
+  echo ===========================================================
+  echo
+
+  docker logs app
+
+  echo
+  echo ===========================================================
+  echo End of logs from APP container
+  echo ===========================================================
+  echo
+
+  docker rm app || true
 
   exit 1
 }
 
-cleanup() {
+trap cleanup EXIT
 
-  docker-compose --project-name httpstub stop
-  docker-compose --project-name httpstub rm -f
-
-  docker run -v /var/run/docker.sock:/var/run/docker.sock -v /var/lib/docker:/var/lib/docker --rm martin/docker-cleanup-volumes
-}
+docker network create -d bridge dockernet
 
 trap error ERR
 trap cleanup EXIT
 
-if [ -z "$GO_PIPELINE_COUNTER" ]; then
-    export GO_PIPELINE_COUNTER=0
-fi
-
-if [ -z "$GO_STAGE_COUNTER" ]; then
-    export GO_STAGE_COUNTER=0
-fi
+ifne () {
+        read line || return 1
+        (echo "$line"; cat) | eval "$@"
+}
 
 echo
-echo =============================================================================
-echo Testing Http stub 
-echo =============================================================================
+echo ===========================================================
+echo building app
+echo ===========================================================
 echo
 
-echo Starting Stub server ...
+docker build -t sc_app ./tests/example-server
+
+echo
+echo ===========================================================
+echo Building test
+echo ===========================================================
 echo
 
-docker-compose build
-docker-compose up -d stub
 
-sleep 10
+docker build -t http-stub-test ./tests/
 
-CURDIR=`pwd`
+echo
+echo ===========================================================
+echo Running app
+echo ===========================================================
+echo
 
-chmod -R 777 *.sh
+docker run --rm -d \
+             --name app \
+             --net=dockernet \
+             sc_app
 
-DIR_NAME=`basename $PWD`
-lower_dir_name=`echo ${DIR_NAME} | tr '[:upper:]' '[:lower:]' | tr -d '[:punct:]'`
+echo
+echo ===========================================================
+echo Running tests container
+echo ===========================================================
+echo
 
-NET_NAME=${lower_dir_name}_stubtest
-
-echo Name is $NET_NAME
-
-docker run --rm \
-           -v "$CURDIR/:/build" \
-           --net ${NET_NAME} \
-           --workdir /build \
-           -e  SERVICE_UNDER_TEST_HOSTNAME='http://stub' \
-           node:boron bash -c ./_test.sh
+docker run --rm --net=dockernet --name test \
+             -e "SERVICE_UNDER_TEST_HOSTNAME=http://app:8000" \
+             http-stub-test /bin/sh -c ./node_modules/.bin/cucumber-js ./features/**/*.feature

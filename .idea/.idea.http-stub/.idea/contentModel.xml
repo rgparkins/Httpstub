@@ -4,35 +4,36 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="_build.sh" t="Include" />
       <e p="_package.sh" t="Include" />
-      <e p="_test.sh" t="Include" />
+      <e p="app" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HttpStub.cs" t="Include" />
+        <e p="lib.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="lib.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RequestCache.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="StatusController.cs" t="Include" />
+        <e p="StubController.cs" t="Include" />
+      </e>
       <e p="build" t="Include" />
       <e p="build.sh" t="Include" />
       <e p="http-stub.sln" t="IncludeFlat" />
       <e p="package.sh" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="src" t="Include">
-        <e p="lib" t="IncludeRecursive">
-          <e p="bin" t="ExcludeRecursive" />
-          <e p="HttpStub.cs" t="Include" />
-          <e p="lib.csproj" t="IncludeRecursive" />
-          <e p="obj" t="ExcludeRecursive">
-            <e p="Debug" t="Include">
-              <e p="netcoreapp2.0" t="Include">
-                <e p="lib.AssemblyInfo.cs" t="Include" />
-              </e>
-            </e>
-          </e>
-          <e p="RequestCache.cs" t="Include" />
-          <e p="Startup.cs" t="Include" />
-          <e p="StatusController.cs" t="Include" />
-          <e p="StubController.cs" t="Include" />
-        </e>
-        <e p="service" t="IncludeRecursive">
+      <e p="test.sh" t="Include" />
+      <e p="tests" t="Include">
+        <e p="Dockerfile" t="Include" />
+        <e p="example-server" t="IncludeRecursive">
           <e p="bin" t="ExcludeRecursive" />
           <e p="Dockerfile" t="Include" />
           <e p="obj" t="ExcludeRecursive">
             <e p="Debug" t="Include">
-              <e p="netcoreapp2.0" t="Include">
+              <e p="netcoreapp3.1" t="Include">
                 <e p="service.AssemblyInfo.cs" t="Include" />
               </e>
             </e>
@@ -40,9 +41,19 @@
           <e p="Program.cs" t="Include" />
           <e p="service.csproj" t="IncludeRecursive" />
         </e>
+        <e p="features" t="Include">
+          <e p="deletion.feature" t="Include" />
+          <e p="status.feature" t="Include" />
+          <e p="step_definitions/apickli-gherkin.js" t="Include" />
+          <e p="step_definitions/deletion.js" t="Include" />
+          <e p="step_definitions/status.js" t="Include" />
+          <e p="step_definitions/stubbing.js" t="Include" />
+          <e p="stubbing.feature" t="Include" />
+        </e>
+        <e p="support" t="Include" />
       </e>
-      <e p="test.sh" t="Include" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_http-stub.1312900769.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_http-stub.392656965.00" t="ExcludeRecursive" />
   </component>
 </project>
